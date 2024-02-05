@@ -1,5 +1,7 @@
 # I320D NLP-Sentimental Laughter - Analyzing Poetic Moods
 
+Dataset: https://huggingface.co/datasets/poem_sentiment
+
 The "Poetic Sentiment Analysis" project focuses on understanding the emotions in poems using the Gutenberg Poem Dataset from Project Gutenberg. This dataset contains a variety of English poems, and we'll use computer techniques to explore the feelings expressed in these verses. The project involves several steps, starting with looking closely at the dataset to understand its structure and important parts. After that, we'll clean up the text in the poems, making it easier for the computer to understand.
 
 Next, we'll dig into the words used in the poems to see which ones come up the most. We're especially interested in two-word combinations. With this information, we'll create visual representations called word clouds to highlight the important words for positive, negative, and mixed feelings in the poems. By comparing these word clouds, we can find out what words are common and what makes each type of sentiment unique.
